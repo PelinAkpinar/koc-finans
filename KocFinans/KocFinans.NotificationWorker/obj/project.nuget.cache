@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgJCzpztbepodumwevrEno+8MwLAnKxwjdaOyT64daEjZ03S53LiHOjsW9O+LCPpyHSXM2sQEi06QmPtzKgZPA==",
+  "dgSpecHash": "s32oB5txvaEdr3TCVPzH2Cu1TnVXCEpc7lw/c+ev7WU9CI7B/g2orJMG9bO3aBiWdpLTn9gGrtKBi98AWrf+Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
+  "projectFilePath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pelin\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\pelin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",

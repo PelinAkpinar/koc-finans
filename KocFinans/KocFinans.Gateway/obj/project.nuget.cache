@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O7/dZ/OQqQVCLLXKmfEBSGv0k3XkzJxHh06hzGaMQ2cTe9BS4FFrRshPGJIPzoFjthM4fruF+VY06OiCU0scqw==",
+  "dgSpecHash": "QCh5Nv9Cu3rbQ/tdddh9YzLzQu72Cg5G9jBWoCLIX3JMGZQFvXb/VvNo001jleLQ7fNSUUOD53AWdnOJccPlpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
+  "projectFilePath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pelin\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\pelin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

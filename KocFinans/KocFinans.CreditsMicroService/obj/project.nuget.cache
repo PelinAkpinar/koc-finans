@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbENHt/o35/uEyaY938G9nHKx5x/lC++jSUguE0KqL0lqhQizKNSVbSs4b7tUQJL9YLFl+dSDsfpHg2zgCyz9A==",
+  "dgSpecHash": "2C4H0lSjwNRbuQY6C9Jn9SeEOOUgQ4wWCG2auIUMr66czjM5524LU23N69f3tEbud509o8Y3WadgB5VU5ZdEXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
+  "projectFilePath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pelin\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\pelin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

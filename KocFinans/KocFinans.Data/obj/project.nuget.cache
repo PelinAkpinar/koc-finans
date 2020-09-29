@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30jTruRKlV99hro+4KEKodcmFacLJAmanX9WxybevCNRmk2yHT+wagRGSwZv/vPYqS05QCSlFg+cwYV4IqCFuA==",
+  "dgSpecHash": "/mvnzqT/5otpM94BD7yZDTLu9mNe8Nd0qWquuYcUruS2+SqC1qN3fHUWSN0Nq+gIBzGjg2BzNj6/ejHF74cuvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
+  "projectFilePath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pelin\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\pelin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

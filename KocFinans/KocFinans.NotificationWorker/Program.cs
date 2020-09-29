@@ -13,7 +13,7 @@ namespace KocFinans.NotificationWorker
         {
             while (true)
             {
-                var uri = new Uri("amqps://zfrhbxtn:vriC8Xsdn-BoatUvxSK5KFSPevFInLLn@sparrow.rmq.cloudamqp.com/zfrhbxtn");
+                var uri = new Uri("amqps://jihmutdb:a4c1N2MOii6onCS1a3kndd6h7ZSke2-u@sparrow.rmq.cloudamqp.com/jihmutdb");
 
                 var factory = new ConnectionFactory
                {

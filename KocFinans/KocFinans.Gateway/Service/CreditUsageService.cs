@@ -77,7 +77,7 @@ namespace KocFinans.Gateway.Service
             return response;
             
         }
-        private  void SendMessage(Credit credit)
+        private void SendMessage(Credit credit)
         {
             _messagingService.QueueMessage(credit);
         }

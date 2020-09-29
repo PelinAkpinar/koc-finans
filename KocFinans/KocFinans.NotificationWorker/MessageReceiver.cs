@@ -41,7 +41,7 @@ namespace KocFinans.NotificationWorker
             var obj = JsonConvert.DeserializeObject<Credit>(message);
             Console.WriteLine(string.Format("Sayin {0} {1}, {2} basvuru numarali,{3} limitli  krediniz onaylanmistir."
             , obj.Name, obj.Surname, obj.Id, obj.CreditAmount));
-            //////_channel.BasicAck(deliveryTag, false);
+            //_channel.BasicAck(deliveryTag, false);
 
         }
 

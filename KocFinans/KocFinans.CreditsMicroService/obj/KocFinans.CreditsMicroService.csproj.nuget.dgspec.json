@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj": {}
+    "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj": {
+    "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
+        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
         "projectName": "KocFinans.CreditsMicroService",
-        "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
+        "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\KocFinans.CreditsMicroService.csproj",
         "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.CreditsMicroService\\obj\\",
+        "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.CreditsMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
-                "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj"
+              "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
+                "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
+    "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
+        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
         "projectName": "KocFinans.Data",
-        "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
+        "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj",
         "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\obj\\",
+        "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,8 +106,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
-                "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
+              "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
+                "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
+    "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
+        "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
         "projectName": "KocFinans.Public",
-        "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
+        "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
         "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\obj\\",
+        "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

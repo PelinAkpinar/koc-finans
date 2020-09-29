@@ -5628,11 +5628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
+      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
       "projectName": "KocFinans.NotificationWorker",
-      "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
+      "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.NotificationWorker\\KocFinans.NotificationWorker.csproj",
       "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.NotificationWorker\\obj\\",
+      "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.NotificationWorker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5651,8 +5651,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
-              "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
+            "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
+              "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
             }
           }
         }

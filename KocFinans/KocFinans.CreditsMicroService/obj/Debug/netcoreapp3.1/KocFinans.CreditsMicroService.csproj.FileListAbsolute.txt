@@ -86,3 +86,47 @@ C:\Users\pelin\Desktop\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcore
 C:\Users\pelin\Desktop\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.dll
 C:\Users\pelin\Desktop\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.pdb
 C:\Users\pelin\Desktop\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.genruntimeconfig.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.exe
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.deps.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.runtimeconfig.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.runtimeconfig.dev.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\WebApiContrib.Core.Formatter.Protobuf.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.Data.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.Public.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.Data.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\bin\Debug\netcoreapp3.1\KocFinans.Public.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.csprojAssemblyReference.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.AssemblyInfoInputs.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.AssemblyInfo.cs
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.csproj.CoreCompileInputs.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.csproj.CopyComplete
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\KocFinans.CreditsMicroService.StaticWebAssets.Manifest.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\KocFinans.CreditsMicroService.StaticWebAssets.xml
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.CreditsMicroService\obj\Debug\netcoreapp3.1\KocFinans.CreditsMicroService.genruntimeconfig.cache

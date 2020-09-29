@@ -1582,7 +1582,10 @@
         },
         "runtime": {
           "bin/placeholder/KocFinans.Public.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5650,11 +5653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
+      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
       "projectName": "KocFinans.Gateway",
-      "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
+      "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Gateway\\KocFinans.Gateway.csproj",
       "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Gateway\\obj\\",
+      "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5673,8 +5676,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
-              "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
+            "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj": {
+              "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj"
             }
           }
         }

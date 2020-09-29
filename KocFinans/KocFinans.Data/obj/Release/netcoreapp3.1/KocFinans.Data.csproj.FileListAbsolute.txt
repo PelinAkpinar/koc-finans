@@ -1,0 +1,12 @@
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\bin\Release\netcoreapp3.1\KocFinans.Data.deps.json
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\bin\Release\netcoreapp3.1\KocFinans.Data.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\bin\Release\netcoreapp3.1\KocFinans.Data.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\bin\Release\netcoreapp3.1\KocFinans.Public.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\bin\Release\netcoreapp3.1\KocFinans.Public.pdb
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.csprojAssemblyReference.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.AssemblyInfoInputs.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.AssemblyInfo.cs
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.csproj.CoreCompileInputs.cache
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.csproj.CopyComplete
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.dll
+C:\Users\pelin\Desktop\New folder (2)\koc-finans\KocFinans\KocFinans.Data\obj\Release\netcoreapp3.1\KocFinans.Data.pdb

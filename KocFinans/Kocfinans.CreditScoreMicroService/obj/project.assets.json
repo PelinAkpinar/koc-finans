@@ -1507,7 +1507,10 @@
         },
         "runtime": {
           "bin/placeholder/KocFinans.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "KocFinans.Public/1.0.0": {
         "type": "project",
@@ -1523,7 +1526,10 @@
         },
         "runtime": {
           "bin/placeholder/KocFinans.Public.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5487,11 +5493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\Kocfinans.CreditScoreMicroService\\Kocfinans.CreditScoreMicroService.csproj",
+      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\Kocfinans.CreditScoreMicroService\\Kocfinans.CreditScoreMicroService.csproj",
       "projectName": "Kocfinans.CreditScoreMicroService",
-      "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\Kocfinans.CreditScoreMicroService\\Kocfinans.CreditScoreMicroService.csproj",
+      "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\Kocfinans.CreditScoreMicroService\\Kocfinans.CreditScoreMicroService.csproj",
       "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\Kocfinans.CreditScoreMicroService\\obj\\",
+      "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\Kocfinans.CreditScoreMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5510,8 +5516,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
-              "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj"
+            "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj": {
+              "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Data\\KocFinans.Data.csproj"
             }
           }
         }

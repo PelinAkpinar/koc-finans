@@ -5446,11 +5446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
+      "projectUniqueName": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
       "projectName": "KocFinans.Public",
-      "projectPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
+      "projectPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\KocFinans.Public.csproj",
       "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pelin\\Desktop\\KocFinans\\KocFinans.Public\\obj\\",
+      "outputPath": "C:\\Users\\pelin\\Desktop\\New folder (2)\\koc-finans\\KocFinans\\KocFinans.Public\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
