@@ -1,0 +1,54 @@
+<div class="wrapper">
+  <div class="wrapped-div">
+    <div class="tab-header">
+      <h2>Kredi Basvuru</h2>
+
+    </div>
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <img src="https://www.kocfinans.com.tr/assets/img/koc-finans-logo.svg" class="mx-auto d-block">
+
+        <form [formGroup]="service.formModel" autocomplete="off" (submit)="onSubmit()">
+          <div class="form-group required">
+              <label>TCKN</label>
+              <input class="form-control" formControlName="TCKN">
+              <label class="text-danger" *ngIf="service.formModel.get('TCKN')
+              .touched && service.formModel.get('TCKN').errors?.required">
+              This field is mandatory.</label>
+
+              <label>Name</label>
+              <input class="form-control" formControlName="Name">
+              <label class="text-danger" *ngIf="service.formModel.get('Name')
+              .touched && service.formModel.get('Name').errors?.required">
+              This field is mandatory.</label>
+
+              <label>Surname</label>
+              <input class="form-control" formControlName="Surname">
+              <label class="text-danger" *ngIf="service.formModel.get('Surname')
+              .touched && service.formModel.get('Surname').errors?.required">
+               This field is mandatory.</label>
+
+              <label>Salary</label>
+              <input class="form-control" formControlName="Salary">
+              <label class="text-danger" *ngIf="service.formModel.get('Salary')
+              .touched && service.formModel.get('Salary').errors?.required">
+              This field is mandatory.</label>
+
+              <label>Phone</label>
+              <input class="form-control" formControlName="Phone">
+              <label class="text-danger" *ngIf="service.formModel.get('Phone')
+              .touched && service.formModel.get('Phone').errors?.required">
+              This field is mandatory.</label>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-8 offset-md-2">
+            <button type="submit" class="btn btn-lg btn-block"
+             [disabled]="!service.formModel.valid">Basvur</button>
+          </div>
+        </div>
+      </form>
+      </div>
+    </div>
+  </div>
+</div>
+
